@@ -8,3 +8,4 @@ int main(void) {
 // Open Terminal
 // gcc -o helloworld helloworld.c
 // ./helloworld
+// Output: Hello World!
